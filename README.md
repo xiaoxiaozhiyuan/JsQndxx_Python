@@ -26,7 +26,7 @@ python main.py
 - 可以使用Github Actions部署
 - 可以部署自己的服务器上（推荐）
 
-##### 因为laravel_session每几天就会改变，但是如果你每天都访问一次，laravel_session就一直不会变，所以建议部署的时候最好是一天执行一次。
+##### 因为laravel_session每几天就会改变，但是如果你每天都执行一次，laravel_session就一直不会变，所以建议部署的时候最好是一天执行一次。
 
 ## 实现原理
 
