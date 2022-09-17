@@ -88,8 +88,4 @@ class Qndxx:
         self.get_userinfo(userinfo)
 
 
-if __name__ == '__main__':
-    laravel_session = "8rAucTd84mpMLxilmCjeWO08rbtC7opDnrwosdaa"
-    qndxx = Qndxx(laravel_session)
-    qndxx.login()
-    qndxx.confirm()
+
