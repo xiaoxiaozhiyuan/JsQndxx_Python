@@ -25,6 +25,9 @@ python main.py
 
 - 可以使用Github Actions部署
 - 可以部署自己的服务器上（推荐）
+- 如果你没有自己的服务器，也可以使用我给我们学校开发的网站（只要是江苏省的学校都可以用）https://ntutools.cn/ 注册即用 
+
+<img src="https://file-1305871479.cos.ap-nanjing.myqcloud.com/img/202209172335530.png" alt="image-20220917233505745" style="zoom:50%;" />
 
 ##### 因为laravel_session每几天就会改变，但是如果你每天都执行一次，laravel_session就一直不会变，所以建议部署的时候最好是一天执行一次。（本人通过这个方法已经一个学期没有去管过青年大学习了）
 
@@ -37,6 +40,8 @@ python main.py
 ### 准备工作
 
 + ##### 抓包
+
+  手机抓包教程见[我的博客](https://yuzai.xyz/archives/c59a0c1a.html)
 
   既然要发送请求，那肯定要知道向哪发送请求
 
@@ -70,15 +75,7 @@ python main.py
 {'message': '操作成功', 'status': 1, 'redirect': '', 'data': {'url': 'https://h5.cyol.com/special/daxuexi/cep3js1vq4/m.html'}}
 ```
 
------
+### 另外，我还做了一个java版本的供大家参考https://github.com/yuzaii/Qndxx_Java
 
-这样，一个简单的青年大学习的自动学习脚本就做好了。
-另外，我还做了一个java版本的供大家参考https://github.com/yuzaii/Qndxx_Java
-
-### 现已上传我自己给我们学校开发的网站（只要是江苏省的学校都可以用）http://ntutools.cn/ 注册即用
-> 手机抓包教程见[我的博客](https://yuzai.xyz/archives/c59a0c1a.html)
-
-<img src="https://file-1305871479.cos.ap-nanjing.myqcloud.com/img/202204301653690.png" alt="image-20220408030947743" style="zoom:80%;" />
-
-### 创作不易 希望能得到您一颗小星星⭐️ 十分感谢
+## 创作不易 希望能得到您一颗小星星⭐️ 万分感谢！
 
