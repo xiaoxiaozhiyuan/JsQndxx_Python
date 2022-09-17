@@ -7,7 +7,7 @@
 
 ```python
 if __name__ == '__main__':
-  	# 下方xxx填入你自己的laravel_session 长度为40的字母数字组合
+# 下方xxx填入你自己的laravel_session 长度为40的字母数字组合
     laravel_session = "xxx"
     qndxx = Qndxx(laravel_session)
     qndxx.login()
@@ -26,7 +26,7 @@ python main.py
 - 可以使用Github Actions部署
 - 可以部署自己的服务器上（推荐）
 
-##### 因为laravel_session每几天就会改变，但是如果你每天都执行一次，laravel_session就一直不会变，所以建议部署的时候最好是一天执行一次。
+##### 因为laravel_session每几天就会改变，但是如果你每天都执行一次，laravel_session就一直不会变，所以建议部署的时候最好是一天执行一次。（本人通过这个方法已经一个学期没有去管过青年大学习了）
 
 ## 实现原理
 
